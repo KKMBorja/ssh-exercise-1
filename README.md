@@ -1,2 +1,5 @@
 # ssh-exercise-1
-Projects for KodeGo WD-PT class
+## description 
+> this is a simple ssh exercise
+
+
